@@ -28,7 +28,7 @@ private repositories; the projects below are case studies, and the pinned reposi
 | **[Motrix+](https://play.google.com/store/apps/details?id=com.thalzeronlabs.motrix)** | Vehicle management with an AI assistant, subscriptions, OBD diagnostics and a built-in course · Kotlin, Compose, Room, Gemini | ✅ Live on Google Play |
 | **Canguru AI** | 100% offline AI chat for Android: my own engine on top of llama.cpp (JNI), on-device image generation, RAG and voice | 🧪 Internal testing |
 | **Certame** | Exam-prep app with spaced repetition (FSRS-6), a daily study plan and mock exams · Kotlin, Compose | 🧪 Closed testing (approved) |
-| **Thalzeron Code** | Desktop app for AI coding agents (TypeScript, Electron) + Chrome extension | 🛠️ [Releases](https://github.com/ThalzeronLabs/tzc-versoes) |
+| **[Thalzeron Code](https://code.thalzeron.com)** | AI agent for Windows that plans, codes, tests and proves its own work, with any model (local GPU, cloud or both): side-by-side agents, an automated test bench and a ledger of everything that leaves the PC · Electron, React 19, TypeScript daemon, Rust (napi-rs), SQLite, Firebase | ✅ 170 releases, signed auto-updates · [Download](https://code.thalzeron.com) |
 
 ### 🛠️ What I work with
 
