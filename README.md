@@ -30,6 +30,15 @@ private repositories; the projects below are case studies, and the pinned reposi
 | **Certame** | Exam-prep app with spaced repetition (FSRS-6), a daily study plan and mock exams · Kotlin, Compose | 🧪 Closed testing (approved) |
 | **[Thalzeron Code](https://code.thalzeron.com)** | AI agent for Windows that plans, codes, tests and proves its own work, with any model (local GPU, cloud or both): side-by-side agents, an automated test bench and a ledger of everything that leaves the PC · Electron, React 19, TypeScript daemon, Rust (napi-rs), SQLite, Firebase | ✅ 170 releases, signed auto-updates · [Download](https://code.thalzeron.com) |
 
+#### Thalzeron Code in action
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ThalzeronLabs/tzc-versoes/main/img/prova.webp" width="32%" alt="The agent proves its work: every claim is checked against the command output and the files"/>
+  <img src="https://raw.githubusercontent.com/ThalzeronLabs/tzc-versoes/main/img/bancada.webp" width="32%" alt="Test bench: a full battery of smoke, network, accessibility and performance checks on an app"/>
+  <img src="https://raw.githubusercontent.com/ThalzeronLabs/tzc-versoes/main/img/lista-viva.webp" width="32%" alt="Live task list: requests are tracked until each one is done and proven"/>
+</p>
+<p align="center"><sub>Proof before "done" · Automated test bench · Requests that never get lost</sub></p>
+
 ### 🛠️ What I work with
 
 <p>
