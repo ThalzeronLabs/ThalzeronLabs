@@ -30,6 +30,17 @@ private repositories; the projects below are case studies, and the pinned reposi
 | **Certame** | Exam-prep app with spaced repetition (FSRS-6), a daily study plan and mock exams · Kotlin, Compose | 🧪 Closed testing (approved) |
 | **[Thalzeron Code](https://code.thalzeron.com)** | AI agent for Windows that plans, codes, tests and proves its own work, with any model (local GPU, cloud or both): side-by-side agents, an automated test bench and a ledger of everything that leaves the PC · Electron, React 19, TypeScript daemon, Rust (napi-rs), SQLite, Firebase | ✅ 170 releases, signed auto-updates · [Download](https://code.thalzeron.com) |
 
+### 📦 Open source
+
+| Repository | What it is |
+|---|---|
+| **[llama-kotlin](https://github.com/ThalzeronLabs/llama-kotlin)** | Run LLMs fully on-device on Android: a coroutine-first Kotlin API over llama.cpp (JNI, Flow streaming) |
+| **[android-on-device-llm](https://github.com/ThalzeronLabs/android-on-device-llm)** | A private AI chat that runs entirely on the phone, built on llama-kotlin |
+| **[play-billing-kit](https://github.com/ThalzeronLabs/play-billing-kit)** | Google Play subscriptions without the classic bugs (acknowledgement, offers, plan changes) |
+| **[compose-bottom-sheets](https://github.com/ThalzeronLabs/compose-bottom-sheets)** | Awaitable Material 3 bottom sheets for Jetpack Compose |
+| **[compose-showcase](https://github.com/ThalzeronLabs/compose-showcase)** | *Shelf*, a modern Android reference app: Compose, Hilt, Room, Retrofit, Coil, tests |
+| **[ai-agent-starter](https://github.com/ThalzeronLabs/ai-agent-starter)** | A tested starter for document-grounded Claude agents: retrieval, tool use, citations |
+
 #### Thalzeron Code in action
 
 <p align="center">
