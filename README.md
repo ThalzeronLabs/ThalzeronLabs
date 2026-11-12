@@ -38,6 +38,7 @@ private repositories; the projects below are case studies, and the pinned reposi
 | **[play-billing-kit](https://github.com/ThalzeronLabs/play-billing-kit)** | Google Play subscriptions without the classic bugs (acknowledgement, offers, plan changes) |
 | **[compose-bottom-sheets](https://github.com/ThalzeronLabs/compose-bottom-sheets)** | Awaitable Material 3 bottom sheets for Jetpack Compose |
 | **[compose-showcase](https://github.com/ThalzeronLabs/compose-showcase)** | *Shelf*, a modern Android reference app: Compose, Hilt, Room, Retrofit, Coil, tests |
+| **[duogpu](https://github.com/ThalzeronLabs/duogpu)** | Windows: one click moves your main monitor between two GPUs, so the big one stays free for local AI (C#, DDC/CI) |
 
 ### 🛠️ What I work with
 
