@@ -39,6 +39,7 @@ private repositories; the projects below are case studies, and the pinned reposi
 | **[compose-bottom-sheets](https://github.com/ThalzeronLabs/compose-bottom-sheets)** | Awaitable Material 3 bottom sheets for Jetpack Compose |
 | **[compose-showcase](https://github.com/ThalzeronLabs/compose-showcase)** | *Shelf*, a modern Android reference app: Compose, Hilt, Room, Retrofit, Coil, tests |
 | **[duogpu](https://github.com/ThalzeronLabs/duogpu)** | Windows: one click moves your main monitor between two GPUs, so the big one stays free for local AI (C#, DDC/CI) |
+| **[babel-steam](https://github.com/ThalzeronLabs/babel-steam)** | Windows: *Babel para Steam* translates what people and studios write on Steam into Brazilian Portuguese, with your own free Gemini key (C#) |
 
 ### 🛠️ What I work with
 
