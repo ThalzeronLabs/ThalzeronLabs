@@ -59,6 +59,10 @@ private repositories; the projects below are case studies, and the pinned reposi
 **AI in Android apps:** Gemini, Claude and OpenAI APIs · structured output · RAG · on-device LLMs (llama.cpp, GGUF, JNI)<br>
 **Native:** C++ through JNI, for on-device AI
 
+## How I build this
+
+I use Claude for AI assistance when drafting, exploring options, and writing tests. I review and test the changes myself and take responsibility for what I publish.
+
 ---
 
 ### 🇧🇷 Sobre mim
